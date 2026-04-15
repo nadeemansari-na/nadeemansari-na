@@ -1,12 +1,12 @@
  ## Hi 👋, I'm Nadeem Ansari
 
-🎓 B.Tech CSE Student
-💻 Aspiring Software Engineer
-🚀 Learning React & TypeScript
+ B.Tech CSE Student
+ Aspiring Software Engineer
+ Learning React & TypeScript
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 React | TypeScript | Node.js | MongoDB
 
-## 🚀 Projects
-Expense Tracker App
+##  Projects
+. Blogging web
