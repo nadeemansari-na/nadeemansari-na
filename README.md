@@ -9,4 +9,4 @@
 React | TypeScript | Node.js | MongoDB
 
 ##  Projects
-. Blogging web
+ Blogging web
